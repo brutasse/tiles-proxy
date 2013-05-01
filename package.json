@@ -1,0 +1,8 @@
+{
+	"name": "tiles-proxy",
+	"dependencies": {
+		"http-proxy": "0.10.2"
+	},
+	"engines": {
+	}
+}
